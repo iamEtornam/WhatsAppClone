@@ -25,8 +25,6 @@ Then
 locate the project on your system and open with android studio or Vscode or intellij IDE
 
 
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
